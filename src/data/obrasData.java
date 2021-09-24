@@ -16,7 +16,7 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
 import entities.obras;
-import utilitarios.fechas;
+import util.fechas;
 import data.conexion;
 import java.sql.SQLException;
 public class obrasData {
