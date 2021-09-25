@@ -96,7 +96,6 @@ public class obras {
     /**
      * @return the idobra
      */
-
     public int getIdova() {
         return idova;
 
@@ -419,7 +418,6 @@ public class obras {
     /**
      * @return the mba
      */
-
     public Date getMba() {
         return mba;
 
